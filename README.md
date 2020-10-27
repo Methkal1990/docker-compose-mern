@@ -2,4 +2,5 @@
 
 ## To run
 at the root of the project run:
-docker-compose up
+
+`docker-compose up`
